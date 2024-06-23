@@ -21,5 +21,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ItsJhonAlex&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=ItsJhonAlex&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
