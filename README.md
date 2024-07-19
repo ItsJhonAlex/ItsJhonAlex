@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Jonathan and I'm a FullStack Developer from Cuba</h2>
+<h2 align="center">Hola 👋! My name is Jonathan and I'm a Developer from Cuba</h2>
 
 ###
 
