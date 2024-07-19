@@ -69,7 +69,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ItsJhonAlex/ItsJhonAlex/snake/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ItsJhonAlex/snake/snake.yml" alt="Snake animation" />
 
 ###
 
