@@ -49,7 +49,7 @@
 
 <h2 align="center">🐱 Pet</h2>
 <div align="center">
-  <img src="https://www.codedex.io/api/petStatus?user=rodrj018451093"/>
+  <img src="https://www.codedex.io/api/petStatus?user=rodrj018451093" alt="Pet"/>
 </div>
   
 <div align="center">
