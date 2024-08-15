@@ -49,8 +49,7 @@
 
 <h2 align="center">🐱 Pet</h2>
 <div align="center">
-  [Check out my progress!](https://www.codedex.io/@rodrj018451093/30-nites-of-code)  
-  ![@rodrj018451093 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rodrj018451093)
+  <img src="https://www.codedex.io/api/petStatus?user=rodrj018451093"/>
 </div>
   
 <div align="center">
