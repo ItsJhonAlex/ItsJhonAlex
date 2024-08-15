@@ -47,6 +47,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ItsJhonAlex&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="Trofeos de GitHub" />
 </p>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@rodrj018451093/30-nites-of-code)  
+  ![@rodrj018451093 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rodrj018451093)
+  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ItsJhonAlex&color=00F7E1&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
 </div>
