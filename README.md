@@ -33,7 +33,7 @@
 
 <div align="center">
   <!-- Aquí puedes agregar tarjetas de tus proyectos más importantes -->
-  <a href="https://github.com/ItsJhonAlex/tu-proyecto-1">
+  <a href="https://github.com/ItsJhonAlex/TatianaBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsJhonAlex&repo=TatianaBot&theme=radical" />
   </a>
   <a href="https://github.com/ItsJhonAlex/tu-proyecto-2">
