@@ -34,7 +34,7 @@
 <div align="center">
   <!-- Aquí puedes agregar tarjetas de tus proyectos más importantes -->
   <a href="https://github.com/ItsJhonAlex/tu-proyecto-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsJhonAlex&repo=tu-proyecto-1&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsJhonAlex&repo=TatianaBot&theme=radical" />
   </a>
   <a href="https://github.com/ItsJhonAlex/tu-proyecto-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsJhonAlex&repo=tu-proyecto-2&theme=radical" />
