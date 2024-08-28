@@ -47,10 +47,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ItsJhonAlex&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="Trofeos de GitHub" />
 </p>
 
-<h2 align="center">🐱 Pet</h2>
-<div align="center">
-  <img src="https://www.codedex.io/api/petStatus?user=Enkidu" alt="Pet"/>
-</div>
+<p align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@72276803-0571-4e62-b0a7-9880fcd0244f?theme=gelbooru"/></a>
+</p>
   
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ItsJhonAlex&color=00F7E1&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
