@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@72276803-0571-4e62-b0a7-9880fcd0244f?theme=gelbooru"/></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@ItsJhonAlex?theme=gelbooru"/></a>
 </p>
   
 <div align="center">
