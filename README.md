@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="@banner.png" alt="Banner personalizado" width="100%">
+  <img src="https://raw.githubusercontent.com/ItsJhonAlex/ItsJhonAlex/main/banner.png" alt="Banner personalizado" width="100%">
 </div>
 
 <h1 align="center">
