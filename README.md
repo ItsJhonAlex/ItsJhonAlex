@@ -52,12 +52,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Cita de programación aleatoria" />
 </p>
 
-<h2 align="center">🎵 Música de Programación <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="30"></h2>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dzo4uvd52uzn4wird3eswejepi&cover_image=true&theme=default" alt="Spotify GitHub Profile" />
-</p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ItsJhonAlex&color=00F7E1&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
 </div>
