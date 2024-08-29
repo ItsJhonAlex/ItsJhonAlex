@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ItsJhonAlex/ItsJhonAlex/main/banner.png" alt="Banner personalizado" width="100%">
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7E1&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Jonathan;Desarrollador+de+Cuba;Bienvenido+a+mi+perfil+moe" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/167501371?s=400&u=69abc897b1e8083a24053bdea39659a511096f50&v=4" alt="Jonathan's Avatar" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; border: 4px solid #00F7E1;">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ItsJhonAlex/ItsJhonAlex/main/banner.png" alt="Banner personalizado" width="100%">
+</div>
 
 <div align="center">
   <a href="https://discord.gg/grjy37fnDB" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
