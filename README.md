@@ -1,7 +1,3 @@
-<div align="center">
-  <span style="color:#FF71CE">▀</span><span style="color:#05FFA1">▀</span><span style="color:#B967FF">▀</span>...
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=05FFA1&center=true&vCenter=true&width=435&lines=LOADING...;¡Hola+Mundo!+Soy+Jonathan;Desarrollador+Full+Stack;Bienvenido+a+mi+mundo+pixel" />
 </h1>
@@ -10,9 +6,15 @@
   <img src="https://github.com/ItsJhonAlex.png" width="150px" style="border-radius: 50%; border: 3px solid #FF71CE"/>
   <br><br>
   
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=pixel&logo=discord&logoColor=white&color=FF71CE)](https://discord.gg/grjy37fnDB)
-  [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=pixel&logo=gmail&logoColor=white&color=05FFA1)](mailto:rodrj0184@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=pixel&logo=whatsapp&logoColor=white&color=B967FF)](https://wa.me/qr/45QRAPEZFSQBP1)
+  [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=FF71CE&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30686%26project%3D%26in=0)](https://codetime.dev)
+  ![GitHub followers](https://img.shields.io/github/followers/ItsJhonAlex?style=flat&color=05FFA1)
+  ![GitHub User's stars](https://img.shields.io/github/stars/ItsJhonAlex?style=flat&color=B967FF)
+  [![wakatime](https://wakatime.com/badge/user/ItsJhonAlex.svg?style=flat&color=FF71CE)](https://wakatime.com/@ItsJhonAlex)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ItsJhonAlex&color=05FFA1&style=flat&label=VISITANTES)
+  
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white&color=FF71CE)](https://discord.gg/grjy37fnDB)
+  [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white&color=05FFA1)](mailto:rodrj0184@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white&color=B967FF)](https://wa.me/qr/45QRAPEZFSQBP1)
 </div>
 
 <div align="center">
@@ -60,12 +62,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ItsJhonAlex&color=FF71CE&style=pixel-square&label=VISITANTES" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="100%" height="100px"/>
-</div>
-
-<div align="center">
-  <span style="color:#FF71CE">▀</span><span style="color:#05FFA1">▀</span><span style="color:#B967FF">▀</span>...
 </div>
