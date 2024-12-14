@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/71d31d767f1f925.png" width="100%" height="100px"/>
+  <img src="https://i.imgur.com/waxVImv.png" width="100%" height="100px"/>
 </div>
 
 <h1 align="center">
@@ -63,5 +63,5 @@
 </div>
 
 <div align="center">
-  <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/71d31d767f1f925.png" width="100%" height="100px"/>
+  <img src="https://i.imgur.com/waxVImv.png" width="100%" height="100px"/>
 </div>
