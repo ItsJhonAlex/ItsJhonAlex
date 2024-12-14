@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=05FFA1&center=true&vCenter=true&width=435&lines=LOADING...;¡Hola+Mundo!+Soy+Jonathan;Desarrollador+Full+Stack;Bienvenido+a+mi+mundo+pixel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=05FFA1&center=true&vCenter=true&width=435&lines=LOADING...;¡Hola+a+todos!+Soy+Jonathan;Desarrollador+Full+Stack;Bienvenidos+a+mi+perfil" />
 </h1>
 
 <div align="center">
@@ -9,7 +9,6 @@
   [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=FF71CE&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30686%26project%3D%26in=0)](https://codetime.dev)
   ![GitHub followers](https://img.shields.io/github/followers/ItsJhonAlex?style=flat&color=05FFA1)
   ![GitHub User's stars](https://img.shields.io/github/stars/ItsJhonAlex?style=flat&color=B967FF)
-  [![wakatime](https://wakatime.com/badge/user/ItsJhonAlex.svg?style=flat&color=FF71CE)](https://wakatime.com/@ItsJhonAlex)
   ![Profile Views](https://komarev.com/ghpvc/?username=ItsJhonAlex&color=05FFA1&style=flat&label=VISITANTES)
   
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white&color=FF71CE)](https://discord.gg/grjy37fnDB)
@@ -39,9 +38,6 @@
 <div align="center">
   <a href="https://github.com/ItsJhonAlex/TatianaBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsJhonAlex&repo=TatianaBot&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF71CE&icon_color=05FFA1" width="49%" />
-  </a>
-  <a href="https://github.com/ItsJhonAlex/tu-proyecto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsJhonAlex&repo=tu-proyecto-2&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF71CE&icon_color=05FFA1" width="49%" />
   </a>
 </div>
 
