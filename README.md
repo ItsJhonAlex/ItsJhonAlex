@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="100%" height="100px"/>
+  <span style="color:#FF71CE">▀</span><span style="color:#05FFA1">▀</span><span style="color:#B967FF">▀</span>...
 </div>
 
 <h1 align="center">
@@ -64,4 +64,8 @@
 
 <div align="center">
   <img src="https://i.imgur.com/waxVImv.png" width="100%" height="100px"/>
+</div>
+
+<div align="center">
+  <span style="color:#FF71CE">▀</span><span style="color:#05FFA1">▀</span><span style="color:#B967FF">▀</span>...
 </div>
