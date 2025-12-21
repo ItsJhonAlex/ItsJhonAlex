@@ -19,6 +19,11 @@
 
 <br/>
 
+> [!IMPORTANT]  
+> 🚀 Actualmente disponible para colaboraciones en proyectos open source, automatizaciones y herramientas para developers. ¡Hablemos!
+
+<br/>
+
 <div align="center">
   <sub>
     <svg width="16px" height="16px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" id="Layer_1" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000" style="vertical-align: middle;">
@@ -87,6 +92,11 @@
 
 <br/>
 
+> [!NOTE]  
+> 🎵 Trabajo mejor con música lo-fi de fondo. Si buscas un espacio tranquilo para programar, únete a mi [lofi corner en Discord](https://discord.gg/grjy37fnDB).
+
+<br/>
+
 <div align="center">
   <h2>📊 Estadísticas GitHub</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=ItsJhonAlex&show_icons=true&hide_border=true&bg_color=00000000&title_color=6EC1C2&text_color=5F6F6F&icon_color=FF9E80" width="49%" alt="stats"/>
@@ -112,6 +122,9 @@
 </div>
 
 <br/>
+
+> [!TIP]
+> 💡 Haz clic abajo para conocer más sobre mi filosofía de desarrollo, lo que estoy aprendiendo y mis hobbies.
 
 <details>
   <summary>💫 Sobre mí (abre para más vibes)</summary>
