@@ -89,7 +89,7 @@
 
 <div align="center">
   <h2>🏆 GitHub Trofeos</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsJhonAlex&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4" alt="trofeos"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ItsJhonAlex&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="trofeos"/>
 </div>
 
 <br/>
@@ -104,7 +104,7 @@
 <div align="center">
   <h2>📊 Estadísticas</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=ItsJhonAlex&show_icons=true&hide_border=true&bg_color=00000000&title_color=6EC1C2&text_color=5F6F6F&icon_color=FF9E80" width="49%" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJhonAlex&hide_border=true&background=00000000&ring=A3C9A8&fire=FF9E80&currStreakLabel=6EC1C2" width="49%" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ItsJhonAlex&hide_border=true&background=00000000&ring=A3C9A8&fire=FF9E80&currStreakLabel=6EC1C2" width="49%" alt="streak"/>
 </div>
 
 <div align="center">
