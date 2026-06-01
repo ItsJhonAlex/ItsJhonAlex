@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&size=26&duration=3500&pause=900&color=D97757&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jonathan+%E2%98%95;Full+Stack+Developer;lo-fi+vibes%2C+calm+energy;building+things%2C+one+commit+at+a+time+%E2%9C%BF" alt="Hi, I'm Jonathan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&size=26&duration=3500&pause=900&color=D97757&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jonathan+%E2%98%95;Full+Stack+Developer;Coffee+%26+Code+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="typing svg" />
 </h1>
 
 <div align="center">
@@ -82,11 +82,11 @@
 <div align="center">
   <h2>// 04 · stats</h2>
 
-  <img src="https://streak-stats.demolab.com/?user=ItsJhonAlex&background=FAF6EF&border=C8B89E&stroke=C8B89E&ring=D97757&fire=D97757&currStreakNum=2D2620&sideNums=2D2620&currStreakLabel=8B6F47&sideLabels=5A4D3F&dates=8B6F47&hide_border=false" width="60%" alt="contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=ItsJhonAlex&background=FAF6EF&border=C8B89E&stroke=C8B89E&ring=D97757&fire=D97757&currStreakNum=2D2620&sideNums=2D2620&currStreakLabel=8B6F47&sidebar=true" alt="GitHub Streak Stats" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsJhonAlex&bg_color=FAF6EF&color=5A4D3F&line=D97757&point=8B6F47&area=true&area_color=F2C6A0&title_color=2D2620&hide_border=true&custom_title=contribution%20graph" width="98%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsJhonAlex&bg_color=FAF6EF&color=5A4D3F&line=D97757&point=8B6F47&area=true&area_color=F2C6A0&title_color=2D2620&hide_border=false" alt="GitHub Activity Graph" />
 
   <br/><br/>
 
@@ -94,6 +94,31 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <h2>// 05 · codetime analytics</h2>
+  
+  <a href="https://codetime.dev">
+    <img src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30686" alt="CodeTime Badge" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://codetime.dev/api/widgets/status.svg?uid=30686&theme=light&style=minimal" alt="CodeTime Status" />
+
+  <br/><br/>
+
+  <img src="https://codetime.dev/api/widgets/donut.svg?uid=30686&days=30&limit=6&theme=light" alt="CodeTime Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>// 06 · now playing · chillhop essentials</h2>
+  <sub>Thanks for stopping by. May your day flow smooth — but with rhythm. 🌙</sub>
+  <br/>
+  <sub>Now playing: <a href="https://open.spotify.com/playlist/37i9dQZF1DX9RwfGbeGQwP">lo-fi beats</a></sub>
+</div>
 
 <details>
   <summary>💫 More about me (open for extra vibes)</summary>
@@ -129,10 +154,3 @@
 </details>
 
 <br/>
-
-<div align="center">
-  <h2>// 05 · now playing · chillhop essentials</h2>
-  <sub>Thanks for stopping by. May your day flow smooth — but with rhythm. 🌙</sub>
-  <br/>
-  <sub>Now playing: <a href="https://open.spotify.com/playlist/37i9dQZF1DX9RwfGbeGQwP">lo-fi beats</a></sub>
-</div>
